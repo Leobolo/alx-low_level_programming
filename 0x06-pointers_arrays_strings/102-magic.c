@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/*
- * magic
- * aorogram tgat print a[2] = 98
- *
- */
 int main(void)
 {
 int n;
